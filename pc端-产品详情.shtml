@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/pc端-产品详情.css"/>
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		<div class="container-fluid row-fluid text-center img-responsive details" style="background-image: url(img/pc端-产品详情/图层1.png);">
+			<div class="text-center center-block details-specific">
+				<span class="detaile-tittle" style="font-size: 3.2rem;">原汁果蔬酵素饮品</span>
+				<div id="myCarousel" class="carousel slide carousel1">   
+					<div class="carousel-inner">
+						<div class="item active">
+							<img src="img/pc端-产品详情/detaile-product1.png" alt="First slide">
+						</div>
+						<div class="item">
+							<img src="img/pc端-产品详情/detaile-product1.png" alt="Two slide">
+						</div>
+						<div class="item">
+							<img src="img/pc端-产品详情/detaile-product1.png" alt="Three slide">
+						</div>
+						<div class="item">
+							<img src="img/pc端-产品详情/detaile-product1.png" alt="Four slide">
+						</div>
+					</div>
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev"><img class="left-move" src="img/pc端-产品详情/矢量智能对象.png"/></a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next"><img class="right-move" src="img/pc端-产品详情/矢量智能对象 拷贝.png"/></a>
+				</div>					
+				<div class="product-superiority">
+					<h2>产品优势：</h2>
+					<p>1．100%台湾制造，具ISO与HACCP认证；</p>
+					<p>2．采用粉碎式、四——六阶段纯菌(活菌)发酵制程，不同于一般渗透压式传统制程(死菌)及一阶段共生菌；</p>
+					<p>3．采用之菌株来源明确，并符合美国FDA GRAS及台湾卫生署的国家标准，为安全菌株；</p>
+					<p>4．发酵稳定度高，分子小好吸收；</p>
+					<p>5．高抗氧化能力，SOD like活性高；</p>
+					<p>6．粉末采用特殊低温干燥方式高倍浓缩，完整保留酵素、SOD活性及营养素不被破坏。</p>
+				</div>
+				<div class="product-efficacy">
+					<h2>产品功效：</h2>
+					<p>1.抗氧化、抗老化；</p>
+					<p>2.帮助消化、调理肠道不顺；</p>
+					<p>3.缓解糖尿病症状；</p>
+					<p>4.均衡营养，补充体力；</p>
+					<p>5.增加复合原料中营养素的吸收。</p>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+				
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+		<script type="text/javascript" src="js/pc端-产品详情.js" ></script>
+	</body>
+
+</html>

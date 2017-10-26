@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/pc端-全部产品-细胞莱爽吧.css"/>
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		<div class="container-fluid row-fluid text-center product-xblsb">
+			<div class="container row text-center center-block tittle">
+				<a href="#"><img class="tittle-character col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/标题.png"/></a>
+				<a href="#"><img class="col-md-8 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/标题-图.png"/></a>
+			</div>
+			<div class="container center-block img-responsive character1">
+				<img class="col-md-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/文字1.png"/>
+			</div>
+			<div class="container-fluid row text-center center-block content1">
+				<a href="#"><img class="pictrue1 col-md-6 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/图片1.png"/></a>
+				<a href="#"><img class="character2 col-md-6 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/文字2.png"/></a>
+			</div>
+			<div class="container-fluid row text-center center-block content2">				
+				<a href="#"><img class="character3 col-md-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/文字3.png"/></a>
+				<a href="#"><img class="character4 col-md-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/forphone.png"/></a>
+				<a href="#"><img class="pictrue2 col-md-5 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/图片2.png"/></a>
+			</div>
+			<div class="container-fluid row center-block content3">				
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2064.png"/></a>
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2080.png"/></a>
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2057.png"/></a>
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2061.png"/></a>
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2087.png"/></a>
+				<a href="#"><img class="col-md-4 col-xs-12 img-responsive" src="img/pc端-全部产品-细胞莱爽吧/IMG_2089.png"/></a>
+			</div>
+		</div>
+		
+		
+		
+				
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

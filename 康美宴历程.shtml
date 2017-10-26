@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/康美宴历程.css"/>
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		<!--产品-->
+		<div class="container row-fluid img-responsive banner">
+			<!--<div class="lc-banner1">
+				<img src="img/康美宴历程/main-1.png"/>
+				<div class="lc-course">
+					<h1>康美宴品牌介绍</h1>
+					<p>康美宴成立于2013年，康美宴品牌以国人健康为己任，优化了国内外在健康领域近几十年来的研究成果，拥有当下最先进的监测、评估、干预、亚健康调理体系，健康顾问成员如医学博士、御医嫡传、中医大家、行业翘楚等，为国人健康管理提供最专业，最有效管家式服务。</p>
+				</div>
+			</div>-->
+			<div class="item" style="background-image: url(img/康美宴历程/main-1.png)">
+	            <div class="caption caption1" style="background-image: url(img/康美宴历程/组.png)">
+	                <h1>康美宴品牌介绍</h1>
+	                <p>康美宴成立于2013年，康美宴品牌以国人健康为己任，优化了国内外在健康领域近几十年来的研究成果，拥有当下最先进的监测、评估、干预、亚健康调理体系，健康顾问成员如医学博士、御医嫡传、中医大家、行业翘楚等，为国人健康管理提供最专业，最有效管家式服务。</p>
+	            </div>
+	        </div>
+		</div>
+		<div class="container row-fluid caption1-mobile">
+			<h1>康美宴品牌介绍</h1>
+	        <p>康美宴成立于2013年，康美宴品牌以国人健康为己任，优化了国内外在健康领域近几十年来的研究成果，拥有当下最先进的监测、评估、干预、亚健康调理体系，健康顾问成员如医学博士、御医嫡传、中医大家、行业翘楚等，为国人健康管理提供最专业，最有效管家式服务。</p>
+		</div>
+		<div class="container row-fluid lc-container">
+			<h1>企业精神</h1>
+			<p><span>企业愿景：</span>科技温暖人生，健康千万家庭</p>
+			<p><span>企业使命：</span>尊重生命，呵护生命，康健国人</p>
+			<p><span>服务定位：</span>传递健康，敬畏生命，敬业、敬职、敬心：一对一私人定制服务</p>
+			<p><span>人才定位：</span>专业、专注、专职</p>
+			<p><span>价&nbsp;值&nbsp;观 ：</span>尊重，包容，感恩，共生，共赢</p>
+		</div>
+		<div class="container row-fluid img-responsive text-center lc-container">
+			<h1>企业荣誉墙</h1>
+			<div class="col-md-12">
+				<img class="col-md-3" src="img/康美宴历程/1.png"/>
+				<img class="col-md-3" src="img/康美宴历程/2.png"/>
+				<img class="col-md-3" src="img/康美宴历程/3.png"/>
+				<img class="col-md-3" src="img/康美宴历程/4.png"/>
+			</div>
+			<div class="col-md-12">
+				<img class="col-md-3" src="img/康美宴历程/5.png"/>
+				<img class="col-md-3" src="img/康美宴历程/6.png"/>
+				<img class="col-md-3" src="img/康美宴历程/7.png"/>
+				<img class="col-md-3" src="img/康美宴历程/8.png"/>
+			</div>
+			<div class="col-md-12">
+				<img class="col-md-3" src="img/康美宴历程/9.png"/>
+				<img class="col-md-3" src="img/康美宴历程/10.png"/>
+				<img class="col-md-3" src="img/康美宴历程/11.png"/>
+				<img class="col-md-3" src="img/康美宴历程/12.png"/>
+			</div>
+			
+			
+			
+		</div>
+		
+		
+		
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴首页-康美宴细胞莱爽吧|康美宴|康美宴——健康管理解决方案专家</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+
+	</head>
+
+	<body>
+	<!--导航-->
+	<!--#include file="/reset/header.shtml"-->
+		
+		<!--产品-->
+		<div class="container img-responsive banner">
+			<a href="pc端-产品详情.shtml"><img id="banner-img" src="img/content/图1.png"/></a>
+			<a href="pc端-产品详情.shtml"><img src="img/content/图2.png"/></a>
+			<a href="pc端-产品详情.shtml"><img src="img/content/图3.png"/></a>
+			<a href="pc端-产品详情.shtml"><img src="img/content/图4.png"/></a>
+		</div>
+		<div class="container row-fluid products">
+			<a href="pc端-产品详情.shtml"><img class="left-img" src="img/content/product/产品1.png"></a>
+			<a href="pc端-产品详情.shtml"><img class="right-img" src="img/content/product/产品2.png"></a>
+			<a href="pc端-产品详情.shtml"><img class="left-img" src="img/content/product/产品3.png"></a>
+			<a href="pc端-产品详情.shtml"><img class="right-img" src="img/content/product/产品4.png"></a>
+		</div>
+		
+		
+		
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" href="css/21天健康管理系统.css" />
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		
+		
+		<!--content-->
+		<div class="container img-responsive banner">
+			<a href="#"><img class="banner2-img" src="img/21天健康/main-1.png"/></a>
+		</div>
+		<div class="content">
+			<div class="container row-fluid text-center article">
+				<div class="col-md-12 tittle">
+					<h1>整体养生观</h1>
+					<p>排通调补固，34653，养生先排毒，固本必升阳，三天排毒素、四天通经络、六天调脏腑 、五天补气血 、三天固本升阳 。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>三天排毒素</h2>
+					<p>(一)有型毒素：肠道，肝胆，细胞毒素。</p>
+					<p>所谓排，即排毒素。 人体毒素，就是体内多余的垃圾。食物消化、吸收后产生的代谢废物滞留，药物残留，环境中得来的各种污染，重金属在体内沉积。为什么要排毒呢?中医认为，“毒”侵害人体，可阻滞气机，耗伤气血，破坏脏腑、经络、气血、营卫的正常运行，从而发生疾病与衰老。现代医学研究表明“毒”长期积存体内，必然导致多种组织细胞的功能障碍，对人体产生众多危害。它可使人发生各种疾病，诸如癌症、心脑血管疾病、消化、泌尿系统疾病等，并损害免疫系统，严重威胁人类健康。</p>
+					<p>(二)负面能量(外部六邪，内部七情)。</p>
+					<p>(三)心理压力，社会压力，环境压力。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>四天通经络</h2>
+					<p> 所谓通，即通经络，就是指要使人体的经脉之气畅通无阻，若经络不通，则气血不和，百病丛生。《灵枢·经脉篇》里说：经脉者，所以能决生死，处百病，调虚实，不可不通。《黄帝内经》中风、寒、暑、湿、火、热、痰、饮等都归为体内的“邪毒”。这些“邪风贼气”聚集体内，阻塞经络、管道……如同高速路上的汽车，原本一路畅通，结果仅仅是因为一辆车出了事故，便一辆接一辆地拥堵，最终形成血管堵塞、运化不良、体液变酸、细胞缺氧，自由基氧化腐蚀，进而五脏六腑功能紊乱，阴阳失衡，百病缠身。
+						从这一点上说，通即为大补。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>六天调脏腑</h2>
+					<p> 所谓调，即调脏腑。通经络，调脏腑，平阴阳。脏腑的生理，以“藏”、“泻”有序为其特点。五脏是以化生和贮藏精、神、气、血、津液为主要生理功能;六腑是以受盛和传化水谷、排泄糟粕为其生理功能。藏、泻得宜，生命活动才得以正常的进行。任何一个环节发生了故障，都会影响整体而发生疾病。心肝脾肺肾，木火土金水，是通过相互依赖，相互制约，生克制化的关系来实现的。有生有制，则可保持一种动态平衡，以保证生理活动的顺利进行。五脏对应五体，皮肉筋骨髓，“肾主精生髓，通于脑，脑为髓之海”。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>五天补气血</h2>
+					<p>所谓补，即补气血。气为血之帅，血为气之母，补血先补气，男人难补血，女人难补气。何为气，能量也。“气”“血”“精”是我们健康的根本，它们充盈则人健康、长寿;它们亏虚，则人会经常出现所谓亚健康的症状，甚至疾病缠身，过早衰老。人们在与自然界五邪做斗争的过程中，不断损耗气血精微，而生命的一切活动均离不开气血精微。气血精微又是五谷转化而成。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>三天固本升阳</h2>
+					<p> 所谓固，即为巩固，固本升阳，上升一个能量水平。即用排、通、调、补的手法，汗蒸理疗、疏通经络、营养代餐、家居保养等系统解决方案对已经获得的健康状态进行长期的巩固，提升，能量级别呈螺旋式循环上升，达到阴平阳秘的高能量平和体质。</p>
+				</div>
+				<div class="col-md-12 part-1">
+					<h2>人体气血能量</h2>
+					<p>一级：阴阳平衡    二级：阳虚    三级：阴虚    四级：阴阳两虚    五级：阴阳枯竭死亡</p>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

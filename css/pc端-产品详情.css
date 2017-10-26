@@ -1,0 +1,85 @@
+h1 {
+	font-size: 20px;
+}
+.detaile-tittle {
+	font-size: .2rem;
+	margin-bottom: 30px;
+}
+.details {
+	width: 100%;
+	padding: 0;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: auto;	
+}
+.details-specific {
+	width: 50%;
+	margin-top: 100px;
+}
+.left-move {
+	width: 40%;
+	position: relative;top: 28%;
+	
+	float: left;
+}
+.right-move {
+	width: 40%;
+	position: relative;top: 28%;
+	float: right;
+}
+.carousel1 {
+	margin-top: 50px;
+	padding: 10% 11%;
+	background-color: #fafafa;
+}
+.carousel-control {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 15%;
+	font-size: 20px;
+	color: none;
+	text-align: center;
+	text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+	filter: alpha(opacity=0);
+	opacity: .5
+}
+.carousel-control.left {
+	background-image: none;
+}
+.carousel-control.right {
+	background-image: none;
+}
+.carousel-detaile {
+	margin-top: 10%;
+	padding: 0 5%;
+}
+.product-efficacy,.product-superiority {
+	text-align: left;
+	font-size: 2rem;
+	line-height: 3.5rem;
+	margin-top: 10%;
+	padding: 3% 3%;
+}
+.product-efficacy {
+	margin-bottom: 10%;
+	padding-top: 10%;
+	border-top: 1px solid gainsboro;
+}
+
+
+
+@media (max-width:800px) {
+	.details-specific {
+		width: 60%;
+		margin-top: 70px;
+	}
+}
+@media (max-width:400px) {
+	.details-specific {
+		width: 100%;
+		margin-top: 40px;
+	}
+}

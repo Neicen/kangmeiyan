@@ -1,0 +1,63 @@
+.product-xblsb {
+	width: 100%;
+	background-image: url(../img/pc端-全部产品-细胞莱爽吧/背景.png);
+	margin-top: 15px;
+	background-size: 100%;
+	background-position: top;
+	background-repeat: repeat-y;
+	height: auto;
+}
+.tittle {
+	padding: 0 5%;
+}
+.tittle-character {
+	margin-top: 35%;
+}
+.content1 {
+	width: 85%;
+}
+.character1 {
+	margin-top: 10%;
+}
+.pictrue1 {
+	
+	margin-top: 20px;
+}
+.character2 {
+	margin-top: 20%;
+}
+.content2 {
+	width: 85%;
+	margin-top: 3%;
+}
+.character4 {
+	display: none;
+}
+.pictrue2 {
+	margin-top: -65%;
+	margin-left: 60%;
+}
+.content3 {
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.content3 img {
+	padding-top: 20px;
+}
+.footer {
+	margin-top: -5%;
+}
+
+
+
+@media (max-width: 800px) {
+	.pictrue2 {
+		margin: 0;
+	}
+	.character3 {
+		display: none;
+	}
+	.character4 {
+		display: block;
+	}
+}

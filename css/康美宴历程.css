@@ -1,0 +1,146 @@
+.lc-banner1 img{
+	width: 100%;
+}
+.item {	
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 768px;
+	font-family: "微软雅黑";
+	line-height: 40px;
+	color: #449437;
+}
+.item .caption1 {
+	width: 38%;
+	height: 366px;
+	text-align: center;
+	z-index: 3;
+	position: relative;left: 18%;top: 300px;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 50px 1.5% 40px;
+}
+.caption1 h1 {
+	font-size: 36px;
+	position: relative;left: -2%;
+}
+.caption1 p {
+	font-size: 24px;
+	text-align: left;
+	text-indent: 50px;
+}
+.lc-container {
+	width: 80%;
+}
+.lc-container h1 {
+	font-size: 32px;
+}
+.lc-container p {
+	font-size: 24px;
+	line-height: 38px;
+}
+.lc-container p span {
+	color: #449437;
+}
+.lc-container img {
+	margin: 15px 0 70px;
+}
+.caption1-mobile {
+	display: none;
+}
+
+
+
+@media (max-width: 1567px) {
+	.item {
+		height: 683px;
+	}
+	.caption1 h1 {
+		font-size: 29px;
+	}
+	.caption1 p {
+		font-size: 17px;
+		line-height: 40px;
+	}
+}
+
+@media (max-width: 1250px) {
+	.item {
+		height: 583px;
+	}
+	.item .caption1 {
+		position: relative;left: 18%;top: 160px;
+	}
+	.caption1 h1 {
+		font-size: 22px;
+		position: relative;left: -2%;
+	}
+	.caption1 p {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.item .caption1 {
+		padding: 90px 1.5% 40px;
+	}
+}
+
+@media (max-width: 800px) {
+	.item {
+		height: 420px;
+	}
+	.item .caption1 {
+		position: relative;left: 18%;top: 60px;
+	}
+	.caption1 h1 {
+		font-size: 15px;
+		position: relative;left: -2%;
+	}
+	.caption1 p {
+		font-size: 9px;
+		line-height: 15px;
+	}
+	.item .caption1 {
+		padding: 110px 1.5% 40px;
+	}
+	.lc-container h1 {
+		font-size: 20px;
+	}
+	.lc-container p {
+		font-size: 13px;
+	}
+}
+@media (max-width: 430px) {
+	.item {
+		height: 228px;
+	}
+	.caption1 {
+		display: none;
+	}
+	.item .caption1 {
+		padding: 110px 1.5% 40px;
+	}
+	.lc-container h1 {
+		font-size: 20px;
+	}
+	.lc-container p {
+		font-size: 13px;
+	}
+	.caption1-mobile {
+		display: block;
+		padding: 0 15%;
+	}
+	.caption1-mobile h1 {
+		text-align: center;
+		font-size: 15px;
+	}
+	.caption1-mobile p {
+		text-align: left;
+		text-indent: 16px;
+		font-size: 8px;
+		line-height: 20px;
+	}
+	.lc-container img {
+		width: 70%;
+	}
+}

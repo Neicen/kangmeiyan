@@ -1,0 +1,63 @@
+<!--导航-->
+		<div class="container row-fluid text-center navbar navbar-default navbar-fixed-top container1">
+			<div class="col-md-2 col-md-offset-1">
+				<a href="#"><img id="logo" src="img/nav/矢量智能对象.png"></a>
+			</div>
+			<ul class="nav nav-pills col-md-6 nav1-top">
+			  	<li role="presentation"><a class="home-page" href="../index.shtml">首页<br /><img class="checked" src="img/nav/叶子.png"></a></li>
+			  	<li role="presentation" class="dropdown dropdown1">
+    				<a class="dropdown-toggle" href="pc端-产品详情.shtml" role="button" aria-haspopup="true" aria-expanded="false">
+      				全部产品<br /><img class="checked" src="img/nav/叶子.png">
+    				</a>
+	    			<ul class="dropdown-menu submenu-all">
+	      				<a href="pc端-全部产品-缤纷酵素.shtml"><div>缤纷酵素</div></a>
+						<a href="pc端-全部产品-细胞莱爽吧.shtml"><div>细胞莱爽吧</div></a>
+						<a href="pc端-全部产品-益生菌类.shtml"><div>益生菌类</div></a>
+						<a href="pc端-全部产品-能量产品.shtml"><div>能量产品</div></a>
+	    			</ul>
+  				</li>
+			  	<li role="presentation"><a href="pc端-血细胞检测仪二级导航.shtml">血细胞检测仪<br /><img class="checked" src="img/nav/叶子.png"></a></li>
+			  	<li role="presentation"><a href="21天健康管理系统.shtml">Heathy Way<br /><img class="checked" src="img/nav/叶子.png"></a></li>
+			  	<li role="presentation"><a href="康美宴历程.shtml">康美宴历程<br /><img class="checked" src="img/nav/叶子.png"></a></li>
+			  	<li role="presentation"><a href="联系我们.shtml">联系我们<br /><img class="checked" src="img/nav/叶子.png"></a></li>
+			</ul>
+			<div class="col-md-3 tel">
+				<li role="presentation" class="dropdown dropdown2">
+    				<a class="dropdown-toggle" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+      					<img id="nav-search" src="img/nav/搜索.png">
+    				</a>
+    				<img id="nav-tel" src="img/nav/服务热线.png">
+	    			<ul class="dropdown-menu submenu-search">
+	      				<input type="text" name="search1" id="search1" placeholder="爽吧" />
+	      				<hr />
+						<a href="pc端-全部产品-细胞莱爽吧.shtml"><div>细胞莱爽吧</div></a>
+						<a href="pc端-全部产品-益生菌类.shtml"><div>益生菌类</div></a>
+						<a href="pc端-全部产品-能量产品.shtml"><div>能量正品</div></a>
+	    			</ul>
+  				</li>
+			</div>						
+			<!--mobile menu-->
+			<div class="for-mobile">
+				<button type="button" class="btn  button-menu" aria-label="Left Align">
+				    <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+				</button>
+				<div class="moblie-menu">
+					<a href="pc端-全部产品-缤纷酵素.shtml"><div>缤 纷 酵 素</div></a>
+					<a href="pc端-全部产品-细胞莱爽吧.shtml"><div>细 胞 莱 爽 吧</div></a>
+					<a href="pc端-全部产品-益生菌类.shtml"><div>益 生 菌 类</div></a>
+					<a href="pc端-全部产品-能量产品.shtml"><div>能 量 正 品</div></a>					
+				</div>
+			</div>	
+			<div class="mobile-search">
+				<button type="button" class="btn btn-default search-menu" aria-label="Left Align">
+				    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+				</button>				
+				<div class="mobile-search-menu">
+					<input type="text" name="search" id="search2" placeholder="能量产品" />
+					<hr />
+					<div class="">
+						<div class="search3">搜索</div>
+					</div>
+				</div>
+			</div>
+		</div>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/pc端-全部产品-缤纷酵素.css"/>
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		<div class="container-fluid row-fluid text-center img-responsive product-bfjs">
+			<a href="#"><img class="col-md-12 top-img" src="img/pc端-全部产品-益生菌类/益生菌类.png"/></a>
+			<div class="middle-img">				
+				<a href="#"><img class="col-md-12" src="img/pc端-全部产品-益生菌类/产品1.png"/></a>
+				<a href="#"><img class="col-md-12" src="img/pc端-全部产品-益生菌类/产品2.png"/></a>
+			</div>			
+		</div>
+		
+		
+		
+				
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<title>康美宴官网</title>
+
+		<!-- Bootstrap -->
+		<link href="frame/bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		
+		<!--self-->
+		<link rel="stylesheet" href="css/index.css" />
+		<link rel="stylesheet" type="text/css" href="css/pc端-血细胞检测仪三级导航.css"/>
+
+	</head>
+
+	<body>
+		<!--导航-->
+		<!--#include file="/reset/header.shtml"-->
+		
+		<div class="container-fluid text-center img-responsive">
+			<a href="#"><img class="top-img" src="img/pc端-血细胞检测仪三级导航/图层-1.png"/></a>
+			<div class="container product-sjdh">				
+				<p> 人体是一个天然的生物红外辐射源，它不断地向周围空间辐射红外线，红外热像仪可把来自人体的红外辐射转变成可见的图像，结合中医理论对红外热图进行解析，可以拓展中医望诊，收集更多的生理、病理信息。</p>
+				<p>红外热成像技术，绿色、无害，能真实动态观察人体组织结构的功能状况和变化，可在组织结构发生实质病变前，探测到细胞代谢变化的热异常表现。</p>
+				<p>最新临床研究成果表明，红外热成像技术在肿瘤特别是乳腺肿瘤的早期发现上，与CT等影像技术比较，最早可提前6-12个月发现，且对人体无损伤，是对恶性肿瘤的预防性普查的有效方法，为恶性肿瘤的早期发现和提前治疗以及延长肿瘤患者生命赢得了宝贵时间。</p>
+			</div>			
+		</div>
+		
+		
+		
+				
+		<!--footer-->
+		<!--#include files="reset/footer.shtml"-->
+		
+				
+		
+
+		<!-- Bootstrap -->
+		<script src="frame/JQuery/jquery-3.2.1.min.js"></script>
+		<script src="frame/bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+		<!--self-->
+	</body>
+
+</html>

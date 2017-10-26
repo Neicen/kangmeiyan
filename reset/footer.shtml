@@ -1,0 +1,30 @@
+<div class="footer">
+			<div class="container row-fluid text-center">
+				<div class="foot">
+					<a href="#"><img class="col-md-2 col-xs-12" src="img/content/footer/全部产品.png"/></a>
+					<a href="#"><img class="col-md-2 col-xs-12" src="img/content/footer/血细胞检测仪.png"/></a>
+					<a href="#"><img class="col-md-2 col-xs-12" src="img/content/footer/健康方式.png"/></a>
+					<a href="#"><img class="col-md-2 col-xs-12" src="img/content/footer/康美宴历程.png"/></a>
+					<a href="#"><img class="col-md-2 col-xs-12" src="img/content/footer/联系我们.png"/></a>							
+				</div>
+				<img class="foot-img" src="img/content/footer/分割线.png"/>
+				<div class="text-center contact foot-pc">
+					<img src="img/content/footer/康美宴log00o.png"/>
+					<img src="img/content/footer/形状 5 拷贝 2.png"/>
+					<img src="img/content/footer/理念.png" />
+					<img src="img/content/footer/康美宴公众平台二维码.png"/>
+				</div>
+				<div class="text-center contact foot-mobile">
+					<img src="img/content/footer/康美宴公众平台二维码.png"/>
+				</div>				
+				<div class="text-center statement">				
+					<p>服务声明：网络沟通无法像面诊过程那样，不能全面了解您的健康状况，因此医生的健康指导建议仅供参考，具体治疗请一定要在医生指导下进行！</p>
+					<p>康美宴健康管理有限公司版权所有 版权登记号：2013SR017418</p>
+					<p>Copyright@2004-2016.120ASK.COM.ALL Rights Reserved sitemap</p>
+				</div>
+				<div class="text-center statement-mobile">
+					<p>康美宴健康管理有限公司版权所有 版权登记号：2013SR017418</p>
+					<p>Copyright@2004-2016.120ASK.COM.ALL Rights Reserved sitemap</p>
+				</div>
+			</div>
+		</div>
